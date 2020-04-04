@@ -1,3 +1,4 @@
+# Para crear el virtualenv se ejecutan los siguientes pasos
 - apt-get install python3-venv
 - apt-get install python3-pip 
 - mkdir virtualenv
