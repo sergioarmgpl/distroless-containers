@@ -1,5 +1,0 @@
-flask
-gevent
-requests
-redis
-regex
